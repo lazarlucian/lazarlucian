@@ -2,13 +2,16 @@
 	letter-spacing: 0.0525em;
 	font-family: 'Amatic SC', cursive;
 }
+
 body{
 	background-color: #1A1B25;
 }
+
 a, a:hover, a:visited,a:active{
 	text-decoration: none;
 	color: white;
 }
+
 /**************
  * NAVBAR CSS * 
  **************/
@@ -51,7 +54,7 @@ a, a:hover, a:visited,a:active{
  *	CONTENT  *
  *************/
 
- #underconstruction{
+#underconstruction{
 	/*border:solid white 1px;*/
 	position: relative;
 	color:white;
