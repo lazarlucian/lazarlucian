@@ -1,0 +1,104 @@
+* {
+	letter-spacing: 0.0525em;
+	font-family: 'Amatic SC', cursive;
+}
+body{
+	background-color: #1A1B25;
+}
+a, a:hover, a:visited,a:active{
+	text-decoration: none;
+	color: white;
+}
+/**************
+ * NAVBAR CSS * 
+ **************/
+.navbar {
+	margin-bottom: 20px;
+	background-color: #1A1B25;
+	font-weight: 700;
+	border-radius: 0;
+}
+.navbar-brand span{
+	
+	font-size: 33px;
+	color:#F06543;
+}
+.navbar-toggle .icon-bar {
+	border: solid tomato 1px;
+}
+
+.navbar li a {
+	font-family: 'Amatic SC', cursive;
+	border-bottom: solid 1px transparent;
+	font-size: 20px;
+	color: white;
+}
+
+.navbar li a, .navbar-brand {
+	text-align: center;
+	text-shadow: none;
+}
+
+	.navbar li a:hover {
+		background-color: transparent;
+		border-bottom: solid 1px white;
+	}
+
+	.navbar li a:visited {
+		background-color: #1A1B25;
+	}
+/*************
+ *	CONTENT  *
+ *************/
+
+ #underconstruction{
+	/*border:solid white 1px;*/
+	position: relative;
+	color:white;
+	text-align: center;
+	margin-top: 12%;
+}
+#underconstruction h1{
+	font-size: 60px;
+}
+ #underconstruction h1, h3{
+ 	font-weight: 900;
+}
+#underconstruction .social-box {
+	margin: auto;
+	max-width: 400px;
+	position: relative;
+	top: 40px;
+	font-size: 24px;
+}
+#underconstruction .social-box a{
+	margin: 10px;
+}
+
+/***********************
+ * SOCIAL MEDIA COLOR  *
+ ***********************/
+.social-box a .fa-facebook:hover{
+	color: #3b5998;
+}
+.social-box a .fa-linkedin:hover{
+	color: #007bb5;
+}
+.social-box a .fa-twitter:hover{
+	color: #00aced;
+}
+.social-box a .fa-google-plus:hover{
+	color: #dd4b39;
+}
+/*************
+ *	MEDIA 	 *
+ *************/
+@media(max-width:768px) {
+
+	.container-fluid {
+		margin: 0;
+	}
+	.navbar li a:hover {
+		border-bottom-color: transparent;
+	}
+}
