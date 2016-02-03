@@ -504,7 +504,7 @@ h1 span:nth-child(2) {
 	}
 
 li.timeline-inverted-big {
-	margin-bottom: 150px;
+	margin-bottom: 100px;
 }
 
 .timeline-badge.big {
@@ -525,8 +525,8 @@ li.timeline-inverted-big {
 	width: 0px;
 	position: relative;
 	right: 0;
-	bottom: 39px;
-	margin-left: -14px;
+	bottom: 40px;
+	margin-left: -13px;
 	height: 0px;
 	left: 50%;
 	border-left: 13px solid transparent;
@@ -539,6 +539,9 @@ li.timeline-inverted-big {
  *************/
 
 @media(max-width:400px) {
+	#home {
+		padding-top: 50% !important;
+	}
 
 	.container {
 		padding-right: 5px;
@@ -598,6 +601,10 @@ li.timeline-inverted-big {
 @media(max-width:768px) {
 	.container-fluid {
 		margin: 0;
+	}
+
+	#home {
+		padding-top: 30%;
 	}
 
 	.navbar li a:hover {
