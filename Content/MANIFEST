@@ -1,0 +1,23 @@
+This zip file contains optimized resources for http://lazarlucian.com/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/bootstrap.min.css: http://lazarlucian.com/Content/css/bootstrap.min.css
+css/font-awesome.min.css: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+css/style.css: http://lazarlucian.com/Content/css/style.css
+js/jquery-1.11.3.min.js: http://lazarlucian.com/Content/js/jquery-1.11.3.min.js
+js/bootstrap.min.js: http://lazarlucian.com/Content/js/bootstrap.min.js
+js/site.js: http://lazarlucian.com/Content/js/site.js
+image/men-1920x1081.jpg: http://lazarlucian.com/Content/images/men-1920x1081.jpg
+image/divider_white700x9.png: http://lazarlucian.com/Content/images/divider_white700x9.png
+image/bg-contact1920x600.jpg: http://lazarlucian.com/Content/images/bg-contact1920x600.jpg
+image/contact-red128x128.png: http://lazarlucian.com/Content/images/contact-red128x128.png
+image/works128x128.png: http://lazarlucian.com/Content/images/works128x128.png
+image/bg-wood540x300.jpg: http://lazarlucian.com/Content/images/bg-wood540x300.jpg
+image/bg-forest540x300.jpg: http://lazarlucian.com/Content/images/bg-forest540x300.jpg
+image/bg-city540x300.jpg: http://lazarlucian.com/Content/images/bg-city540x300.jpg
+image/bg-newsletter1920x500.jpg: http://lazarlucian.com/Content/images/bg-newsletter1920x500.jpg
