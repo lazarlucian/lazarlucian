@@ -604,6 +604,13 @@ li.timeline-inverted-big {
 		border-bottom-color: transparent;
 	}
 
+	.navbar {
+		position: fixed;
+		width: 100%;
+		background-color: #1a1b25;
+		z-index: 1000;
+	}
+
 	#works .thumbnail {
 		width: 80%;
 		margin: 10px auto;
