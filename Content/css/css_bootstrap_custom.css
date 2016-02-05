@@ -57,3 +57,7 @@ a, a:hover, a:visited, a:active {
 	.navbar li a:visited, .navbar li a:active, .navbar li a:focus {
 		background-color: transparent;
 	}
+
+.backHomeandNav {
+	background: url('../images/men-1920x1081.jpg') no-repeat center center;
+}

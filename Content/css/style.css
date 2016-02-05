@@ -7,7 +7,7 @@
 body {
 }
 .backHomeandNav {
-	background: url('../images/men-1920x1081.jpg') no-repeat center center;
+	/*background: url('../images/men-1920x1081.jpg') no-repeat center center;*/
 	-webkit-background-size: 100%;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -15,6 +15,7 @@ body {
 	background-color: #1a1b25;
 	height: 100%;
 }
+
 /* navbar copy */
 .navbar {
 	border: none;
