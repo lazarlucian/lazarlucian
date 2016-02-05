@@ -1,0 +1,59 @@
+/* 
+	AUTHOR : Lazar Lucian
+	DATE   : 05 Feb 2016
+	DESC   : css bootstrap custom
+*/
+
+a, a:hover, a:visited, a:active {
+	text-decoration: none;
+	color: white;
+	background-color: transparent;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.row {
+	padding: 100px 0;
+	margin: 0;
+}
+
+.navbar {
+	border: none;
+	margin-bottom: 0px;
+	background-color: rgba(26,27,37,0.3);
+	font-weight: 700;
+	border-radius: 0;
+}
+
+.navbar-brand span {
+	font-size: 33px;
+	color: #F06543;
+}
+
+.navbar-toggle .icon-bar {
+	border: solid white 1px;
+}
+
+.navbar li a {
+	border-bottom: solid 1px transparent;
+	font-size: 20px;
+	color: white;
+	font-weight: 400;
+}
+
+.navbar li a, .navbar-brand {
+	text-align: center;
+	text-shadow: none;
+}
+
+	.navbar li a:hover {
+		background-color: transparent;
+		transition: border 1s;
+		border-bottom: solid 1px white;
+	}
+
+	.navbar li a:visited, .navbar li a:active, .navbar li a:focus {
+		background-color: transparent;
+	}
